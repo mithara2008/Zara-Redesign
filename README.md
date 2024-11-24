@@ -5,3 +5,9 @@ Redesigned the Zara website using Figma to enhance user experience and resolve u
 
 ![Register3](https://github.com/user-attachments/assets/15d296f2-8235-4d9b-aee0-cfd0f3b32a0e)
 
+![Homepage1](https://github.com/user-attachments/assets/a2f185b1-486a-4265-ab8f-99d305ea75c6)
+
+![ViewItem1](https://github.com/user-attachments/assets/7487e2b3-4bfc-435c-9e77-2fb848c89738)
+
+
+

@@ -1,7 +1,3 @@
-# Zara-Redesign
-Here’s a structured storytelling case study based on your document:
-
----
 
 # **Zara Website Redesign: A UX Case Study**
 
@@ -31,11 +27,8 @@ Based on our research, we redesigned Zara’s website with these improvements:
 - **Streamlined Checkout:** Simplified the checkout process for faster transactions.
 - **User-Centered UI:** A modern and visually appealing design using **Figma**.
 
-Our high-fidelity prototype presents a **refined, user-friendly, and efficient** shopping experience, making online fashion retail more accessible and enjoyable.
 
----
-
-Would you like me to refine any section further or add more details? 🚀
+🚀
 🔥Check Out the Prototype: https://www.figma.com/proto/wXsHkpCCIC8CO7Yxeku6SY/Zara-Redesign-Project?page-id=0%3A1&node-id=924-1835&node-type=frame&viewport=779%2C416%2C0.04&t=o2thdbW3nmueXih3-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=351%3A228
 
 ![Register3](https://github.com/user-attachments/assets/15d296f2-8235-4d9b-aee0-cfd0f3b32a0e)
